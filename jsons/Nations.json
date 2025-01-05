@@ -1,7 +1,7 @@
 [
     {
 		"name": "Adelle Corp",
-		"leaderName": "Kane",
+		"leaderName": "Misha sigmanius",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Sample text.",
@@ -36,6 +36,24 @@
 		"uniqueName": "Purification",
 		"uniques": ["No damage penalty for wounded units <for [non-air] units>"],
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
+"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+	},
+	{
+		"name": "i like machines",
+		"leaderName": "Машиная компания карио-сейлс",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "БОЛЬШЕ МАШИн!!!.",
+		"startIntroPart2": "СТРОЙ МАШИНЫ И даВи ЛЮДЕЙ",
+		"declaringWar": "ТЫ НЕ УВАЖАЕШЬ МАшиНЫ.",
+		"attacked": "ВИДИМО ТВОИ МАШИНЫ ХУЖЕ РАЗ ТЫ АТАКУЕШЬ МЕНЯ!",
+		"defeated": "ТВОИ МАШИНЫ РЕАЛЬНО ПЛОХИЕ .",
+		"introduction": "Ты умеешь делать машины?",
+		"tradeRequest": "Машин не оказалось но прими это.",
+		"outerColor": [139,0,0],
+		"innerColor": [0,0,0],
+		"uniqueName": "-",
+		"cities": ["Машино-заводск","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	}
 ]
