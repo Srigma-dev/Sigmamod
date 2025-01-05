@@ -11,7 +11,7 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city"]
 	},
-  {
+	{
 		"name": "Мастерская",
 		"isNationalWonder": false,
 		"production": 3,
@@ -19,10 +19,10 @@
 		"gold": 0,
 		"culture": 0,
 		"cityStrength": 1,
-		"cost": ,
+		"cost": 20,
 		"uniques": ["Destroyed when the city is captured"]
 	},
-   {
+	{
 		"name": "Барикады",
 		"isNationalWonder": false,
 		"production": 3,
@@ -30,18 +30,31 @@
 		"gold": 0,
 		"culture": 0,
 		"cityStrength": 5,
-    "cityHealth": 50,
-		"cost": 1,
+		"cityHealth": 50,
+		"cost": 35,
 		"uniques": ["Destroyed when the city is captured"]
 	},
-  {
+	{
 		"name": "Фермы",
 		"isNationalWonder": false,
 		"production": 3,
 		"science": 1,
 		"gold": 0,
+		"food": 2,
 		"culture": 0,
 		"cityStrength": 1,
-		"cost": 1,
+		"cost": 17
 	},
+	{
+		"name": "Иследовательская палата",
+		"isNationalWonder": false,
+		"production": 3,
+		"science": 0,
+		"gold": 0,
+		"food": 0,
+		"culture": 0,
+		"cityStrength": 1,
+		"cost": 35,
+		"uniques": ["[+2 production] from [scrap] tiles [in this city]"]
+	}
 ]
