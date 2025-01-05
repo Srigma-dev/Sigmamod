@@ -55,6 +55,6 @@
 		"culture": 0,
 		"cityStrength": 1,
 		"cost": 35,
-		"uniques": ["[+2 production] from [scrap] tiles [in this city]"]
+		"uniques": ["[+2 Production] from [scrap] tiles [in this city]"]
 	}
 ]
