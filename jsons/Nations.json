@@ -30,7 +30,7 @@
 		"defeated": "I see for the black hand has been unworthy to serve Kane.",
 		"introduction": "If you would stay out of our way then you might live to tell your tale.",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
-		"outerColor": [139,0,0],
+		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"uniqueName": "Purification",
 		"uniques": ["No damage penalty for wounded units <for [non-air] units>"],
@@ -49,10 +49,9 @@
 		"defeated": "ТВОИ МАШИНЫ РЕАЛЬНО ПЛОХИЕ .",
 		"introduction": "Ты умеешь делать машины?",
 		"tradeRequest": "Машин не оказалось но прими это.",
-		"outerColor": [139,0,0],
-		"innerColor": [0,0,0],
-		"uniqueName": "-",
-		"cities": ["Машино-заводск","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,255],
+		"cities": ["Машино-заводск","Крутус машинус","Машинс","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	}
 ]
