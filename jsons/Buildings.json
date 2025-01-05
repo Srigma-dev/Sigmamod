@@ -1,0 +1,47 @@
+[
+	
+	{
+		"name": "Флаги",
+		"isNationalWonder": true,
+		"production": 1,
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]
+	},
+  {
+		"name": "Мастерская",
+		"isNationalWonder": false,
+		"production": 3,
+		"science": 1,
+		"gold": 0,
+		"culture": 0,
+		"cityStrength": 1,
+		"cost": ,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+   {
+		"name": "Барикады",
+		"isNationalWonder": false,
+		"production": 3,
+		"science": 0,
+		"gold": 0,
+		"culture": 0,
+		"cityStrength": 5,
+    "cityHealth": 50,
+		"cost": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+  {
+		"name": "Фермы",
+		"isNationalWonder": false,
+		"production": 3,
+		"science": 1,
+		"gold": 0,
+		"culture": 0,
+		"cityStrength": 1,
+		"cost": 1,
+	},
+]
