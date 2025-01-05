@@ -14,5 +14,27 @@
 		"rangedStrength": 7,
 		"cost": 40,
 		"attackSound": "shot"
+	},
+	{
+		"name": "Car",
+		"unitType": "Infantry",
+		"movement": 6,
+		"strength": 7,
+        "range": 1,
+		"rangedStrength": 9,
+		"cost": 60,
+		"attackSound": "shot"
+	},
+	{
+		"name": "Крутая машина",
+		"unitType": "Infantry",
+		"movement": 7,
+		"strength": 8,
+        "range": 2,
+		"replaces": "Car"
+		"uniqueTo": "i like machines",
+		"rangedStrength": 11,
+		"cost": 60,
+		"attackSound": "shot"
 	}
 ]
