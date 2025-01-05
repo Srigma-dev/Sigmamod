@@ -6,5 +6,31 @@
 		"movementCost": 1,
         "RGB": [0, 163, 0],
         "uniques": []
-    }
+	},
+	{
+	"name": "water",
+		"type": "Water",
+		"food": 0,
+		"movementCost": 1,
+        "RGB": [0, 0, 204],
+        "uniques": []
+	},
+	{
+		"name": "scrap",
+		"type": "Land",
+		"food": 2,
+		"production": 2,
+		"movementCost": 2,
+        "RGB": [92, 92, 92],
+        "uniques": []
+	},
+	{
+		"name": "badsand",
+		"type": "Land",
+		"food": 0,
+		"production": 0,
+		"movementCost": 1,
+        "RGB": [148, 106, 10],
+        "uniques": []
+	}
 ]
