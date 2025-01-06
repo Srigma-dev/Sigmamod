@@ -6,5 +6,9 @@
     {
         "name": "Infantry",
         "movementType": "Land"
+    },
+    {
+        "name": "Atomic Bomber",
+        "movementType": "Air"
     }
 ]
