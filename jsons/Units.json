@@ -44,7 +44,7 @@
 		"strength": 15,
 		"cost": 301,
 		"attackSound": "shot"
-	}
+	},
 	{
 		"name": "Улучшенный танк",
 		"unitType": "Infantry",
@@ -52,6 +52,24 @@
 		"strength": 35,
 		"requiredTech": "Продвинутые технологии",
 		"cost": 450,
+		"attackSound": "shot"
+	},
+	{
+		"name": "Пехота",
+		"unitType": "Infantry",
+		"movement": 4,
+		"strength": 9,
+		"requiredTech": "Улучшенное вооружение",
+		"cost": 45,
+		"attackSound": "shot"
+	},
+	{
+		"name": "Новая пехота",
+		"unitType": "Infantry",
+		"movement": 4,
+		"strength": 20,
+		"requiredTech": "Новая пехота",
+		"cost": 150,
 		"attackSound": "shot"
 	}
 ]
