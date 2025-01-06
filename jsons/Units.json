@@ -36,5 +36,13 @@
 		"rangedStrength": 11,
 		"cost": 60,
 		"attackSound": "shot"
+	},
+	{
+		"name": "Танк",
+		"unitType": "Infantry",
+		"movement": 3,
+		"strength": 15,
+		"cost": 301,
+		"attackSound": "shot"
 	}
 ]
