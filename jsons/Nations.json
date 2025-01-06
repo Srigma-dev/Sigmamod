@@ -19,14 +19,14 @@
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	},
 	{
-		"name": "The New Movement",
-		"leaderName": "Anton Slavik",
+		"name": "Новый Ренн-кто",
+		"leaderName": "Дернислав",
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Sample text.",
-		"startIntroPart2": "Sample text",
-		"declaringWar": "It is in  my Intentions to spread the word of Nod into your land.",
-		"attacked": "Pitiful fool! Now we shall destroy you!",
+		"startIntroPart1": "Наша цель востонавить власть и былую силу Ренн-то.",
+		"startIntroPart2": "Захвати соседей ведь это не законная власть",
+		"declaringWar": "Ты враг всего Ренн-кто.",
+		"attacked": "Идиот ты даже незнаешь силу нового Ренн-кто!",
 		"defeated": "I see for the black hand has been unworthy to serve Kane.",
 		"introduction": "If you would stay out of our way then you might live to tell your tale.",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
@@ -46,12 +46,12 @@
 		"startIntroPart2": "СТРОЙ МАШИНЫ И даВи ЛЮДЕЙ",
 		"declaringWar": "ТЫ НЕ УВАЖАЕШЬ МАшиНЫ.",
 		"attacked": "ВИДИМО ТВОИ МАШИНЫ ХУЖЕ РАЗ ТЫ АТАКУЕШЬ МЕНЯ!",
-		"defeated": "ТВОИ МАШИНЫ РЕАЛЬНО ПЛОХИЕ .",
+		"defeated": "Чтож мне придётся отдать часть машин...",
 		"introduction": "Ты умеешь делать машины?",
 		"tradeRequest": "Машин не оказалось но прими это.",
 		"outerColor": [255,0,0],
 		"innerColor": [255,255,255],
-		"cities": ["Машино-заводск","Крутус машинус","Машинс","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
+		"cities": ["Машино-заводск","Крутус машинус","Машинс","Машиностан","Нова Машинс","Карио","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	}
 ]
