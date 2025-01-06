@@ -75,7 +75,20 @@
 		"happiness": 15,
 		"culture": 5,
 		"cityStrength": 1,
-		"cost": 50,
+		"cost": 250,
 		"uniques": ["[+2 Production] from [scrap] tiles [in this city]"]
 	},
+	{
+		"name": "Тест",
+		"isWonder": true,
+		"production": 50,
+		"science": 50,
+		"gold": 50,
+		"food": 25
+		"happiness": 15,
+		"culture": 5,
+		"cityStrength": 1,
+		"cost": 1000,
+		"uniques": ["[+2 Production] from [scrap] tiles [in this city]"]
+	}
 ]
