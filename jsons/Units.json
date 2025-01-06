@@ -71,5 +71,14 @@
 		"requiredTech": "Новая пехота",
 		"cost": 150,
 		"attackSound": "shot"
+	},
+	{
+		"name": "Ядерная бомба",
+		"unitType": "Nuclear Weapon",
+		"movement": 11,
+		"strength": 5,
+		"requiredTech": "Ядерное оружие",
+		"cost": 200,
+		"attackSound": "shot"
 	}
 ]
