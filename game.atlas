@@ -38,28 +38,28 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitPortraits/car
+UnitIcons/Infantry
   rotate: false
   xy: 38, 38
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-UnitPortraits/Lancer
+UnitIcons/Infantry
   rotate: false
   xy: 294, 38
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-UnitPortraits/Conquistador
+UnitIcons/Infantry
   rotate: false
   xy: 550, 38
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-UnitPortraits/Sipahi
+UnitIcons/Infantry
   rotate: false
   xy: 806, 38
   size: 180, 180
