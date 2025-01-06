@@ -16,15 +16,29 @@
     {
         "name": "Эра среднего развития",
         "researchAgreementCost": 300,
-        "startingSettlerCount": 1, 
+        "startingSettlerCount": 4, 
         "startingWorkerCount": 0,
         "startingMilitaryUnitCount": 1,
-        "startingMilitaryUnit": "Rifleman",
+        "startingMilitaryUnit": "Танк",
         "settlerPopulation": 1,
         "baseUnitBuyCost": 600,
         "embarkDefense": 3,
         "startPercent": 0,
         "citySound": "cityAncient",
         "iconRGB": [128, 182, 217]
+    }
+    {
+        "name": "Эра позднего развития",
+        "researchAgreementCost": 400,
+        "startingSettlerCount": 1, 
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Улучшенный танк",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 1200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityAncient",
+        "iconRGB": [251, 150, 163]
     }
 ]
