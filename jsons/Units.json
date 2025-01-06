@@ -74,7 +74,7 @@
 	},
 	{
 		"name": "Ядерная бомба",
-		"unitType": "Nuclear Weapon",
+		"unitType": "Atomic Bomber",
 		"movement": 11,
 		"strength": 5,
 		"requiredTech": "Ядерное оружие",
