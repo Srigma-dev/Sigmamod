@@ -12,5 +12,12 @@
         "milestones": ["Have highest score after max turns"],
         "victoryString": "Спустя большое кол-во времени вы стали сильнейшим государством!",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
+        "name": "Дипломатия",
+        "victoryScreenHeader": "Win diplomatic vote",
+        "milestones": ["Win diplomatic vote"],
+        "victoryString": "Спустя большое кол-во времени вы стали наиболее дружелюбным и любимым государством!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     }
 ]
