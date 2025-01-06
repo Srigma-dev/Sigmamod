@@ -17,7 +17,7 @@
 	{	
 		"columnNumber": 1,
 		"era": "Эра начала нового мира",
-		"techCost": 35,
+		"techCost": 75,
 		"buildingCost": 40,
 		"wonderCost": 1850,
 		"techs": [
@@ -38,7 +38,7 @@
 	{
 		"columnNumber": 2,
 		"era": "Эра начала нового мира",
-		"techCost": 105,
+		"techCost": 350,
 		"buildingCost": 50,
 		"wonderCost": 1000,
 		"techs": [
@@ -47,6 +47,27 @@
 				"row": 7,
 				"quote": "'Позволяет улучшить свои войска и здания",
 				"uniques": ["[5] population in a random city"]
+			}
+		]
+	},
+	{
+		"columnNumber": 3,
+		"era": "Эра среднего развития",
+		"techCost": 650,
+		"buildingCost": 50,
+		"wonderCost": 1000,
+		"techs": [
+			{
+				"name": "Новая пехота",
+				"row": 7,
+				"quote": "'Изучает новых стрелков",
+				"uniques": ["Free [Танк] appears"]
+			},
+			{
+				"name": "Новая ферма",
+				"row": 6,
+				"quote": "'Только у нас есть лучшие и натуральные фермы...",
+				"uniques": ["[1] population in a random city"]
 			}
 		]
 	}
