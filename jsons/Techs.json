@@ -1,0 +1,28 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "Эра начала нового мира",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 1850,
+		"techs": [
+			{
+				"name": "Раннее машиностроение",
+				"row": 6,
+				"quote": "'Машины это способ выжить в новом мире",
+				"uniques": ["Starting tech"]
+			}
+		]
+},
+{
+		"columnNumber": 1,
+		"era": "Эра начала нового мира",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 1850,
+		"techs": [
+			{
+				"name": "Раннее машиностроение",
+				"row": 6,
+				"quote": "'",
+				"uniques": ["Starting tech"]
