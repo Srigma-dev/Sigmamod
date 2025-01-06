@@ -46,7 +46,7 @@
 		"cost": 25
 	},
 	{
-		"name": "Иследовательская палата",
+		"name": "палата собирателей",
 		"isNationalWonder": false,
 		"production": 3,
 		"science": 0,
@@ -88,5 +88,41 @@
 		"cityStrength": 1,
 		"requiredTech": "Новая ферма"
 		"cost": 50
-	}
+	},
+	{
+		"name": "Научный центр",
+		"production": 1,
+		"science": 3,
+		"gold": 2,
+		"food": 0,
+		"happiness": 0,
+		"culture": 0,
+		"cityStrength": 1,
+		"requiredTech": "Улучшенное вооружение"
+		"cost": 50
+	},
+	{
+		"name": "Био-ферма",
+		"production": 2,
+		"science": 1,
+		"gold": 1,
+		"food": 10,
+		"happiness": 0,
+		"culture": 0,
+		"cityStrength": -1,
+		"requiredTech": "Новая ферма"
+		"cost": 50
+	},
+	{
+		"name": "Ракета в космос",
+		"production": 25,
+		"science": 1,
+		"gold": 1,
+		"food": 10,
+		"happiness": 0,
+		"culture": 0,
+		"cityStrength": -1,
+		"requiredTech": "Ракета для научной победы и для промышлености",
+		"cost": 50
+	},
 ]
