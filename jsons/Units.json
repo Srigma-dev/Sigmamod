@@ -45,4 +45,13 @@
 		"cost": 301,
 		"attackSound": "shot"
 	}
+	{
+		"name": "Улучшенный танк",
+		"unitType": "Infantry",
+		"movement": 4,
+		"strength": 35,
+		"requiredTech": "Продвинутые технологии",
+		"cost": 450,
+		"attackSound": "shot"
+	}
 ]
