@@ -5,7 +5,7 @@
 		"isNationalWonder": true,
 		"production": 1,
 		"science": 1,
-		"gold": 1,
+		"gold": 2,
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
@@ -31,7 +31,7 @@
 		"culture": 0,
 		"cityStrength": 5,
 		"cityHealth": 50,
-		"cost": 35,
+		"cost": 45,
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -43,7 +43,7 @@
 		"food": 2,
 		"culture": 0,
 		"cityStrength": 1,
-		"cost": 17
+		"cost": 25
 	},
 	{
 		"name": "Иследовательская палата",
@@ -54,7 +54,28 @@
 		"food": 0,
 		"culture": 0,
 		"cityStrength": 1,
-		"cost": 35,
+		"cost": 50,
 		"uniques": ["[+2 Production] from [scrap] tiles [in this city]"]
-	}
+	},
+	{
+		"name": "Торговый центр",
+		"isWonder": true,
+		"gold": 50,
+		"food": 25,
+		"cityStrength": 20,
+		"quote": "В это время сложно построить идеальный мир - Дернислав"
+	},
+	{
+		"name": "Библиотека",
+		"isNationalWonder": true,
+		"production": 5,
+		"science": 5,
+		"gold": 1,
+		"food": 25
+		"happiness": 15,
+		"culture": 5,
+		"cityStrength": 1,
+		"cost": 50,
+		"uniques": ["[+2 Production] from [scrap] tiles [in this city]"]
+	},
 ]
