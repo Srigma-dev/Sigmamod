@@ -1,9 +1,0 @@
-[
-	{
-		"name": "Древние обломки",
-		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland"],
-		"production": 5,
-		"uniques": ["Generated on every [14] tiles <in [Grassland] tiles>"]
-  }
-]
