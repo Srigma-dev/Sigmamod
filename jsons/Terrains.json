@@ -8,7 +8,7 @@
         "uniques": []
 	},
 	{
-	"name": "water",
+	"name": "Ocean",
 		"type": "Water",
 		"food": 0,
 		"movementCost": 1,
