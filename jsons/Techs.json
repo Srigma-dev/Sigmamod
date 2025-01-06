@@ -70,5 +70,90 @@
 				"uniques": ["[1] population in a random city"]
 			}
 		]
+	},
+	{
+		"columnNumber": 4,
+		"era": "Эра позднего развития",
+		"techCost": 800,
+		"buildingCost": 50,
+		"wonderCost": 1000,
+		"techs": [
+			{
+				"name": "Прочные железные стены",
+				"row": 7,
+				"quote": "'Благодаря текущей науке мы можем создать очень прочные стены",
+				"uniques": ["Free [Танк] appears"]
+			},
+			{
+				"name": "Био улучшеные фермы",
+				"row": 6,
+				"quote": "'Больше не каких натуральных ферм что и к лучшему",
+				"uniques": ["[1] population in a random city"]
+			}
+		]
+	}
+	{
+		"columnNumber": 5,
+		"era": "Эра позднего развития",
+		"techCost": 800,
+		"buildingCost": 50,
+		"wonderCost": 1000,
+		"techs": [
+			{
+				"name": "Био-оружие",
+				"row": 7,
+				"quote": "'Отровляет все вражеские города",
+				"prerequisites": ["Био улучшеные фермы"],
+				"uniques": ["Can be continually researched","[-1] population [in enemy cities]"]
+			},
+			{
+				"name": "Ядерное оружие",
+				"row": 6,
+				"prerequisites": ["Био улучшеные фермы"],
+				"quote": "'теперь и мы вооружины тем оружием от которого умерла планета",
+			}
+		]
+	},
+	{
+		"columnNumber": 6,
+		"era": "Эра позднего развития",
+		"techCost": 800,
+		"buildingCost": 50,
+		"wonderCost": 1000,
+		"techs": [
+			{
+				"name": "Био-оружие",
+				"row": 7,
+				"quote": "'Отровляет все вражеские города",
+				"prerequisites": ["Био улучшеные фермы"],
+				"uniques": ["Can be continually researched","[-1] population [in enemy cities]"]
+			},
+			{
+				"name": "Ядерное оружие",
+				"row": 6,
+				"prerequisites": ["Био улучшеные фермы"],
+				"quote": "'теперь и мы вооружины тем оружием от которого умерла планета",
+			}
+		]
+	},
+	{
+		"columnNumber": 7,
+		"era": "Эра позднего развития",
+		"techCost": 850,
+		"buildingCost": 50,
+		"wonderCost": 1000,
+		"techs": [
+			{
+				"name": "Голосование для дипломатической победы",
+				"row": 7,
+				"quote": "'Теперь дело за малым",
+				"uniques": ["Can be continually researched","Triggers voting for the Diplomatic Victory"]
+			},
+			{
+				"name": "Ракета для научной победы и для промышлености",
+				"row": 6,
+				"quote": "'Теперь дело за малым",
+			}
+		]
 	}
 ]
