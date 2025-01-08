@@ -125,4 +125,16 @@
 		"requiredTech": "Ракета для научной победы и для промышлености",
 		"cost": 50
 	},
+	{
+		"name": "Парк развлечений",
+		"production": 2,
+		"science": 0,
+		"gold": 5,
+		"food": 10,
+		"happiness": 2,
+		"culture": 5,
+		"cityStrength": 1,
+		"requiredTech": "Новая ферма"
+		"cost": 50
+	}
 ]
