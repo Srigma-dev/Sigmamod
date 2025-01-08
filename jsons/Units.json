@@ -75,9 +75,10 @@
 	{
 		"name": "Ядерная бомба",
 		"unitType": "Atomic Bomber",
-		"movement": 11,
-		"strength": 5,
+		"movement": 1,
+		"strength": 150,
 		"requiredTech": "Ядерное оружие",
+		"rangedStrength": 150
 		"cost": 200,
 		"attackSound": "shot"
 	}
