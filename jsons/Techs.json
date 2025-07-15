@@ -61,7 +61,7 @@
 				"name": "Новая пехота",
 				"row": 7,
 				"quote": "'Изучает новых стрелков",
-				"uniques": ["Free [Танк] appears"]
+				"uniques": ["Free [Tank] appears"]
 			},
 			{
 				"name": "Новая ферма",
@@ -82,7 +82,7 @@
 				"name": "Прочные железные стены",
 				"row": 7,
 				"quote": "'Благодаря текущей науке мы можем создать очень прочные стены",
-				"uniques": ["Free [Танк] appears"]
+				"uniques": ["Free [Tank] appears"]
 			},
 			{
 				"name": "Био улучшеные фермы",
