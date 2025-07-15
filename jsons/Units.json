@@ -64,7 +64,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Rocket",
+		"name": "New troops",
 		"unitType": "Infantry",
 		"movement": 4,
 		"strength": 20,
@@ -75,8 +75,8 @@
 	{
 		"name": "Bomb",
 		"unitType": "Atomic Bomber",
-		"movement": 5,
-		"strength": 150,
+		"movement": 75,
+		"strength": 250,
 		"requiredTech": "Ядерное оружие",
 		"rangedStrength": 1500
 		"cost": 200,
