@@ -16,7 +16,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Car",
+		"name": "Warrior",
 		"unitType": "Infantry",
 		"movement": 6,
 		"strength": 7,
@@ -26,7 +26,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Крутая машина",
+		"name": "Warrior",
 		"unitType": "Infantry",
 		"movement": 7,
 		"strength": 8,
@@ -38,7 +38,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Танк",
+		"name": "Tank",
 		"unitType": "Infantry",
 		"movement": 3,
 		"strength": 15,
@@ -46,7 +46,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Улучшенный танк",
+		"name": "Modern tank",
 		"unitType": "Infantry",
 		"movement": 4,
 		"strength": 35,
@@ -55,7 +55,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Пехота",
+		"name": "Trooper",
 		"unitType": "Infantry",
 		"movement": 4,
 		"strength": 9,
@@ -64,7 +64,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Новая пехота",
+		"name": "Rocket",
 		"unitType": "Infantry",
 		"movement": 4,
 		"strength": 20,
@@ -73,12 +73,12 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Ядерная бомба",
+		"name": "Bomb",
 		"unitType": "Atomic Bomber",
-		"movement": 1,
+		"movement": 5,
 		"strength": 150,
 		"requiredTech": "Ядерное оружие",
-		"rangedStrength": 150
+		"rangedStrength": 1500
 		"cost": 200,
 		"attackSound": "shot"
 	}
