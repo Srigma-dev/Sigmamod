@@ -29,7 +29,7 @@
 		"science": 0,
 		"gold": 0,
 		"culture": 0,
-		"cityStrength": 5,
+		"cityStrength": 3,
 		"cityHealth": 50,
 		"cost": 45,
 		"uniques": ["Destroyed when the city is captured"]
@@ -53,7 +53,7 @@
 		"gold": 0,
 		"food": 0,
 		"culture": 0,
-		"cityStrength": 1,
+		"cityStrength": 0,
 		"cost": 50,
 	},
 	{
@@ -61,7 +61,7 @@
 		"isWonder": true,
 		"gold": 50,
 		"food": 25,
-		"cityStrength": 20,
+		"cityStrength": 2,
 		"cost": 250,
 		"quote": "В это время сложно построить идеальный мир - Дернислав"
 	},
@@ -74,7 +74,7 @@
 		"food": 25
 		"happiness": 15,
 		"culture": 5,
-		"cityStrength": 1,
+		"cityStrength": 0,
 		"cost": 250,
 	},
 	{
@@ -85,7 +85,7 @@
 		"food": 10,
 		"happiness": 2,
 		"culture": 5,
-		"cityStrength": 1,
+		"cityStrength": 0,
 		"requiredTech": "Новая ферма"
 		"cost": 50
 	},
@@ -134,7 +134,19 @@
 		"happiness": 2,
 		"culture": 5,
 		"cityStrength": 1,
-		"requiredTech": "Новая ферма"
+		"requiredTech": "Новая ферма", 
 		"cost": 50
+	}, 
+ {
+		"name": Пропаганда счастья",
+		"production": 0,
+		"science": 0,
+		"gold": 5,
+		"food": 1,
+		"happiness": 5,
+		"culture": 5,
+		"cityStrength": 0,
+		"requiredTech": "Новая ферма", 
+		"cost": 55
 	}
 ]
