@@ -79,7 +79,7 @@
 		"strength": 250,
 		"requiredTech": "Ядерное оружие",
 		"rangedStrength": 1500
-  "range": 25,
+  "range": 5,
 		"cost": 200,
 		"attackSound": "shot"
 	}
