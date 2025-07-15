@@ -26,12 +26,12 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Warrior",
+		"name": "Swordman",
 		"unitType": "Infantry",
 		"movement": 7,
 		"strength": 8,
         "range": 2,
-		"replaces": "Car"
+		"replaces": "Warrior"
 		"uniqueTo": "i like machines",
 		"rangedStrength": 11,
 		"cost": 60,
