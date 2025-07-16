@@ -85,14 +85,14 @@
 		"attackSound": "shot"
 	}, 
  {
-		"name": "",
-		"unitType": "Atomic Bomber",
-		"movement": 5,
-		"strength": 250,
-		"requiredTech": "Ядерное оружие",
-		"rangedStrength": 1000,
-  "range": 5,
-		"cost": 200,
+		"name": "ДСР",
+		"unitType": "Infantry",
+		"movement": 1,
+		"strength": 5,
+		"requiredTech": "ДСР",
+		"rangedStrength": 50,
+  "range": 3,
+		"cost": 300,
 		"attackSound": "shot"
 	}
 ]
