@@ -18,6 +18,24 @@
 		"cities": ["Кентурион","Фроасон","Хренаниум","Гереништ","Дубостан","Лемоленд","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	},
+ {
+		"name": "Дэюпе федерэйшон",
+		"leaderName": "Эрнак Ячун",
+		"preferredVictoryType": "Domination", 
+		"startIntroPart1": "Эрнак Ячун",
+		"startIntroPart2": "После неизвестных катастров мир полностью изменился , часть людей что выжили хотят объеденить планету и восстановить её .",
+		"declaringWar": "Сдавайтесь, мы с благими намерениями и не невредим вашим жителям",
+		"attacked": "За что? Наши цели благие, мы не невредим тебе...",
+		"defeated": "Увы, вы оказались сильней света, надеемся вы или кто-то другой продолжит наше дело.",
+		"introduction": "ЗДРАВИЯ желаю, я Эрнак Ячун и я рад знакомству. ",
+		"tradeRequest": "Нам это будет выгодно.",
+		"outerColor": [0,200,0],
+		"innerColor": [0,22,0],
+		"uniqueName": "Благие герои это танки",
+		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
+		"cities": ["Новая столица","Селлаер","Зивмилэнд","Ячуния","Ново стан","Лемостан","Круас","Эсфаль","Geirmundarstaoir","Holmgaror","Selaeyrr",
+"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+	},
 	{
 		"name": "Новый Ренн-кто",
 		"leaderName": "Дернислав",
