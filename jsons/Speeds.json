@@ -27,6 +27,34 @@
             {"yearsPerTurn":  1, "untilTurn": 330}
         ]
     },
+{
+        "name": "Нормально",
+        "modifier": 1,
+        "productionCostModifier": 1,
+        "goldCostModifier": 1,
+        "scienceCostModifier": 1,
+        "cultureCostModifier": 1,
+        "faithCostModifier": 1,
+        "improvementBuildLengthModifier": 1,
+        "barbarianModifier": 1,
+        "goldGiftModifier": 1,
+        "cityStateTributeScalingInterval": 1.0,
+        "goldenAgeLengthModifier": 1,
+        "religiousPressureAdjacentCity": 1,
+        "peaceDealDuration": 15,
+        "dealDuration": 25,
+        "startYear": -4000,
+        "turns": [
+            {"yearsPerTurn": 600, "untilTurn":  50},
+            {"yearsPerTurn": 40, "untilTurn":  80},
+            {"yearsPerTurn": 30, "untilTurn": 100},
+            {"yearsPerTurn": 20, "untilTurn": 130},
+            {"yearsPerTurn": 10, "untilTurn": 155},
+            {"yearsPerTurn":  5, "untilTurn": 195},
+            {"yearsPerTurn":  2, "untilTurn": 260},
+            {"yearsPerTurn":  1, "untilTurn": 330}
+        ]
+    },
   {
         "name": "Очень быстро",
         "modifier": 0.30,
