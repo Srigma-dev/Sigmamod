@@ -22,7 +22,7 @@
 		"production": 2,
 		"movementCost": 2,
         "RGB": [92, 92, 92],
-        "uniques": []
+        "uniques": ["Occurs at temperature between [0] and [1] and humidity between [0] and [0.3]"]
 	},
 	{
 		"name": "badsand",
