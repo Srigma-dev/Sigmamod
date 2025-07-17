@@ -29,12 +29,12 @@
 {
 		"name": "Тяжелый Танк",
 		"unitType": "Infantry",
-		"movement": 1,
+		"movement": 2,
 		"strength": 50,
 		"cost": 600,
 		"attackSound": "shot"
-  "requiredTech": "Продвинутые технологии"
-	}
+  "requiredTech": "Сверх современная армия"
+	}, 
 	{
 		"name": "Swordman",
 		"unitType": "Infantry",
@@ -97,7 +97,7 @@
  {
 		"name": "ДСР",
 		"unitType": "Infantry",
-		"movement": 1,
+		"movement": 2,
 		"strength": 5,
 		"requiredTech": "ДСР",
 		"rangedStrength": 50,
@@ -112,5 +112,16 @@
 		"strength": 5,
 		"cost": 40,
 		"attackSound": "shot"
+	}, 
+ {
+		"name": "Бомбардировщик",
+		"unitType": "Air",
+		"movement": 2,
+		"strength": 5,
+		"cost": 200,
+  "rangedStrength": 30,
+  "range": 7,
+		"attackSound": "shot"
+  "requiredTech": "Сверх современная армия"
 	}
 ]
