@@ -31,6 +31,6 @@
 		"production": 0,
 		"movementCost": 1,
         "RGB": [148, 106, 10],
-        "uniques": ["Occurs at temperature between [0.1] and [0.3] and humidity between [0] and [0.1]",]
+        "uniques": ["Occurs at temperature between [0.1] and [0.3] and humidity between [0.1] and [0.2]"]
 	}
 ]
