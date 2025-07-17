@@ -26,6 +26,15 @@
 		"cost": 60,
 		"attackSound": "shot"
 	},
+{
+		"name": "Тяжелый Танк",
+		"unitType": "Infantry",
+		"movement": 1,
+		"strength": 50,
+		"cost": 600,
+		"attackSound": "shot"
+  "requiredTech": "Продвинутые технологии"
+	}
 	{
 		"name": "Swordman",
 		"unitType": "Infantry",
@@ -81,7 +90,7 @@
 		"requiredTech": "Ядерное оружие",
 		"rangedStrength": 1000,
   "range": 5,
-		"cost": 500,
+		"cost": 650,
 		"attackSound": "shot"
   "uniques": ["Self-destructs when attacking"] 
 	}, 
