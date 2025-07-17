@@ -31,6 +31,6 @@
 		"production": 0,
 		"movementCost": 1,
         "RGB": [148, 106, 10],
-        "uniques": ["Occurs at temperature between [0.1] and [0.9] and humidity between [0] and [0.3]", "A Region is formed with at least [50]% [badsand] tiles, with priority [8]"]
+        "uniques": ["Occurs at temperature between [0.1] and [0.9] and humidity between [0] and [0.3]", "A Region is formed with at least [50]% [badsand] tiles, with priority [8]","[+3] to Fertility for Map Generation"]
 	}
 ]
