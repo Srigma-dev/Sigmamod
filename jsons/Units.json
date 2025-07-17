@@ -95,5 +95,13 @@
   "range": 3,
 		"cost": 300,
 		"attackSound": "shot"
+	}, 
+{
+		"name": "Лодка",
+		"unitType": "Water",
+		"movement": 5,
+		"strength": 5,
+		"cost": 40,
+		"attackSound": "shot"
 	}
 ]
