@@ -10,5 +10,9 @@
     {
         "name": "Atomic Bomber",
         "movementType": "Air"
-    }
+    }, 
+    {
+        "name": "Water",
+        "movementType": "Ocean"
+    },
 ]
