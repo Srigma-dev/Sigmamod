@@ -4,6 +4,6 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"production": 5,
-		"uniques": ["Generated on every [14] tiles <in [Grassland] tiles>"]
+		"uniques": ["Generated on every [15] tiles <in [Grassland] tiles>"]
   }
 ]
