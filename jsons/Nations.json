@@ -32,7 +32,7 @@
 		"outerColor": [0,200,0],
 		"innerColor": [0,22,0],
 		"uniqueName": "Память древних",
-		"uniques": ["[+25]% [science]"],
+		"uniques": ["[+25]% [tech]"],
 		"cities": ["Новая столица","Селлаер","Зивмилэнд","Ячуния","Ново стан","Лемостан","Круас","Эсфаль"," Звездочковычка","Тильда бург","Lorum",
 "Ipsum","Dolor","sit","amet","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	},
