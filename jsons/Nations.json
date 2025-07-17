@@ -31,10 +31,10 @@
 		"tradeRequest": "Нам это будет выгодно.",
 		"outerColor": [0,200,0],
 		"innerColor": [0,22,0],
-		"uniqueName": "Благие герои это танки",
-		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
-		"cities": ["Новая столица","Селлаер","Зивмилэнд","Ячуния","Ново стан","Лемостан","Круас","Эсфаль","Geirmundarstaoir","Holmgaror","Selaeyrr",
-"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+		"uniqueName": "Память древних",
+		"uniques": ["[+25]% [science]"],
+		"cities": ["Новая столица","Селлаер","Зивмилэнд","Ячуния","Ново стан","Лемостан","Круас","Эсфаль"," Звездочковычка","Тильда бург","Lorum",
+"Ipsum","Dolor","sit","amet","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	},
 	{
 		"name": "Новый Ренн-кто",
