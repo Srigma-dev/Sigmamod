@@ -12,7 +12,7 @@
 		"unhappinessModifier": 0.75,
 		"barbarianBonus": 0.4,
 		"barbarianSpawnDelay": 3,
-		"playerBonusStartingUnits": ["Settler"],
+		"playerBonusStartingUnits": ["Колонисты"],
 		"aiCityGrowthModifier": 1.1,
 		"aiUnitCostModifier": 1.1,
 		"aiBuildingCostModifier": 1.1,
